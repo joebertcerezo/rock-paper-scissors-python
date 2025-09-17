@@ -1,8 +1,3 @@
-"""
-Rock Paper Scissors GUI Game using Tkinter
-A simple graphical interface for playing Rock Paper Scissors against the computer
-with score tracking and visual feedback.
-"""
 import tkinter as tk
 from tkinter import ttk, messagebox
 import random
